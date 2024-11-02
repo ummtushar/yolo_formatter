@@ -1,5 +1,7 @@
 # YOLO Formatter
 
+YOLO (You Only Look Once) is a real-time object detection system that divides images into grids, predicting bounding boxes and class probabilities for each grid cell simultaneously. Known for its speed and accuracy, YOLO processes images in a single pass, making it ideal for applications needing rapid detection, like autonomous driving.
+
 YOLO Formatter is a Python library that helps you organize your dataset in a YOLO-compatible structure. This package is designed to simplify the process of converting a disorganized dataset into a structure that YOLO models can easily understand. This tool is particularly useful for users who have images and labels scattered in different directories and need an easy way to create a clean dataset structure.
 
 ## Features
