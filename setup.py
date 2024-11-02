@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='yolo_formatter',
-    version='0.1',
+    version='0.2',
     description='A Python package to create a proper structured dataset that YOLO understands.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
